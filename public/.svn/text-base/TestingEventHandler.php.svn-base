@@ -1,0 +1,40 @@
+<?php
+/* 
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/**
+ * Description of ImplicitDataSender
+ *
+ * @author peska
+ */
+class TestingEventHandler  implements EventHandler{
+    //put your code here
+    private $event;
+
+    function __construct($event){
+        $this->event = $event;
+    }
+
+    /**
+     * saves event to the database
+     */
+    function saveEvent(){
+        /**
+         * TODO: kontrola typu udalosti, pripadne akce svazane s typem
+         */
+
+         /* check whether we have an approved event*/
+         if( in_array($this->event->getEventType(), Config::$recognizedAggregatedEvent ) ){
+
+            $database = UPCompDatabase::get_instance();
+
+            echo $this->event->getSQL();
+            $database->executeQuery( $this->event->getSQL() );
+
+         }
+    }
+
+}
+?>

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5/trunk/Peska/UPComp/interface
+END
+UPCompDatabaseInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/Peska/UPComp/interface/UPCompDatabaseInterface.php
+END
+ObjectRating.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/Peska/UPComp/interface/ObjectRating.php
+END
+ObjectSimilarity.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/Peska/UPComp/interface/ObjectSimilarity.php
+END
+QueryToDatabaseInteraction.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/Peska/UPComp/interface/QueryToDatabaseInteraction.php
+END
+EventHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/Peska/UPComp/interface/EventHandler.php
+END
+QueryHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/Peska/UPComp/interface/QueryHandler.php
+END
+EventHandlerReturnedValue.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/Peska/UPComp/interface/EventHandlerReturnedValue.php
+END
+UserSimilarity.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/Peska/UPComp/interface/UserSimilarity.php
+END
+Collaborative.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/Peska/UPComp/interface/Collaborative.php
+END

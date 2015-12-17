@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects
+END
+Error.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects/Error.php
+END
+MySQLDatabase.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects/MySQLDatabase.php
+END
+AttributeFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects/AttributeFactory.php
+END
+ExplicitUserDataEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects/ExplicitUserDataEvent.php
+END
+ExtendedQueryToDatabaseInteraction.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects/ExtendedQueryToDatabaseInteraction.php
+END
+UserExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects/UserExpression.php
+END
+BasicQueryToDatabaseInteraction.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects/BasicQueryToDatabaseInteraction.php
+END
+TestingEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects/TestingEvent.php
+END
+Attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects/Attribute.php
+END
+QueryResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects/QueryResponse.php
+END
+ImplicitUserDataEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects/ImplicitUserDataEvent.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects/Query.php
+END
+AggregatedDataEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects/AggregatedDataEvent.php
+END
+ObjectExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/Peska/UPComp/objects/ObjectExpression.php
+END
